@@ -1,4 +1,5 @@
 # mvpdemo
+![Android_MVP_structure.png]
 ## 说明：
 - 步骤1：View引用Presenter
 - 步骤2：Presenter调用Model，走Model具体逻辑
