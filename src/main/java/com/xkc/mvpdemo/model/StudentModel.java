@@ -4,9 +4,6 @@ import android.util.SparseArray;
 
 import com.xkc.mvpdemo.bean.Student;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by xkc on 9/8/16.
  */
